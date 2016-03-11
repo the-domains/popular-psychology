@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Popular Psychology]]></title>
-        <description><![CDATA[Popular Psychology]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Popular Psychology: Exploring the Intersection of Psychology and Daily Life]]></title>
+        <description><![CDATA[Popular Psychology: Exploring the Intersection of Psychology and Daily Life]]></description>
+        <link>https://thegrid.ai/popular-psychology/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 21:15:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 21:32:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/popular-psychology/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>One of the best guides to mediation I've read. It's irreverent and funny and extremely helpful. Definitely worth looking at.http://www.huffingtonpost.com/rena-delevie/a-feisty-guide-to-meditat_b_9421350.html?utm_hp_ref=healthy-living&ir=Healthy+Living</p>]]></description>
+            <link>https://thegrid.ai/popular-psychology/082199dc-1eb3-4f1f-a3d7-146663161350/index.html</link>
+            <guid isPermaLink="false">082199dc-1eb3-4f1f-a3d7-146663161350</guid>
+            <pubDate>Fri, 11 Mar 2016 21:32:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26b84114-253d-4662-80e0-4774e29aee6d.jpg">]]></description>
-            <link>undefinedecd81fca-1d1d-4d9f-a2cd-cc41ac9bd3bf/index.html</link>
+            <link>https://thegrid.ai/popular-psychology/ecd81fca-1d1d-4d9f-a2cd-cc41ac9bd3bf/index.html</link>
             <guid isPermaLink="false">ecd81fca-1d1d-4d9f-a2cd-cc41ac9bd3bf</guid>
             <pubDate>Fri, 11 Mar 2016 21:14:44 GMT</pubDate>
         </item>
